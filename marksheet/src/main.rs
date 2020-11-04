@@ -1,4 +1,3 @@
-use std::cmp::Ordering;
 fn main() {
     println!("Please Enter Your Marks");
     
